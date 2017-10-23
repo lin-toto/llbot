@@ -1,6 +1,6 @@
 # LLBot
 
-这是一个可以使用iOS设备，自动玩LoveLive SIF的脚本。
+这是去年的时候无聊写的一个可以使用iOS设备，自动玩LoveLive SIF的脚本。
 
 ## Usage
 
